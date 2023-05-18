@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(57, 53, 53);
+}
+
+header{
+    margin-top: 5rem;
+}
+
+.owl-carousel {
+    padding-top: 20px;
+    height: 25rem;
+    /* background-color: white; */
+    margin-top: 15rem;
+}

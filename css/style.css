@@ -1,0 +1,23 @@
+body {
+    font-family: var(--font-base);
+    line-height: 1.7;
+    color: var(--c-body);
+}
+
+section {
+    margin-top: 60px;
+}
+
+#Background-Quantum {
+    background: url(../assets/img/pexels-life-of-pix-7974.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#Products {
+    background-color: rgb(22, 22, 22);
+}
+
+.ri-shopping-bag-line {
+    font-size: 20px;
+}
